@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, Microservices**
 
-- 👨‍💻 All of my projects are available at [https://navinshyamkuwar.github.io/portfolio.navin/](https://navinshyamkuwar.github.io/portfolio.navin/)
+- 👨‍💻 All of my projects are available at [https://github.com/navinshyamkuwar?tab=repositories](https://github.com/navinshyamkuwar?tab=repositories)
 
 - 📫 How to reach me **navinshyamkuwar@gmail.com**
 
